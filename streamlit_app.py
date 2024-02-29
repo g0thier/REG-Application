@@ -7,7 +7,7 @@ from plotly.offline import plot
 
 st.set_page_config(layout="wide",
                    page_title="Recherche REG de Genève",
-                   page_icon="https://www.geneve.ch/themes/custom/vdg_theme/favicon.ico",
+                   page_icon="🇨🇭",
                    )
 
 types = {'TEL_PRINCIPAL': object}
