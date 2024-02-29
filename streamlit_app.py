@@ -168,7 +168,7 @@ html_tag = '''
                 box-shadow: 0 0 5px 12px white;">
         <div style="font-size: 16px; color: rgb(130, 132, 142);">Application proposée par :</div>
         <div style="display: flex; align-items: center;">
-            <img src="https://media.licdn.com/dms/image/D4E35AQHZLG_J_xrFww/profile-framedphoto-shrink_400_400/0/1705403502852?e=1708531200&v=beta&t=ZuAXebCzwwEv12B3LxhyqXVWBSA-kwCU_0glBGtCcvo" alt="Image Ronde" style="border-radius: 50%; width: 40px; height: 40px;">
+            <img src="https://github.com/g0thier/REG-Application/blob/ccfac896cd211e3b149361e16e50ec78726e09e4/Sources/profil.jpeg" alt="Image Ronde" style="border-radius: 50%; width: 40px; height: 40px;">
             <div style="margin-left: 10px;">
                 <a href="https://www.linkedin.com/in/gauthier-rammault/" target="_blank">Gauthier Rammault</a><br>
                 <div style="background-color: rgb(71, 111, 52); color: white; border-radius: 5px; display: inline-block; font-size: 10px; padding-left: 5px; padding-right: 5px; position: relative; top: -4px;">#DÉVELOPPEUR</div>
