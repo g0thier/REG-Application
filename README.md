@@ -2,13 +2,15 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Usage](#usage)
-- [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Files](#files)
-- [External Help links](#external-help-links)
-- [License](#license)
+- [Geneva's REG research](#genevas-reg-research)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Usage](#usage)
+  - [Installation](#installation)
+  - [Dependencies](#dependencies)
+  - [Files](#files)
+  - [External Help links](#external-help-links)
+  - [License](#license)
 
 ## Overview
 
@@ -67,4 +69,4 @@ pip install numpy pandas plotly==5.18.0 streamlit
 
 MIT License
 
-Copyright (c) [2024] [Gauthier Rammault]
+Copyright (c) [2026] [Gauthier Rammault]
